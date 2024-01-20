@@ -1,4 +1,6 @@
-## Question 2
-You live in the city of Cartesian where all roads are laid out in a perfect grid. 
-You arrived ten minutes too early to an appointment, so you decided to take the 
-opportunity to go for a short walk.
+## Question 2 
+
+You are given an array (which will have a length of at least 3, but could be very large)
+containing integers. The array is either entirely comprised of odd integers or entirely
+comprised of even integers except for a single integer N. Write a method that takes the
+array as an argument and returns this "outlier" N.
